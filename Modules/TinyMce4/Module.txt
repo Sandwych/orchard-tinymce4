@@ -1,0 +1,9 @@
+﻿Name: TinyMce 4
+Author: Nikita Belyaev, Wei Li
+Website: www.sandwych.com
+Version: 1.7.3
+OrchardVersion: 1.7.0
+Description: The TinyMCE 4 with all plugins + languages
+FeatureDescription: TinyMCE HTML WYSIWYG editor.
+FeatureDependencies: Orchard.jQuery
+Category: Input Editor
